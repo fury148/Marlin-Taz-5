@@ -174,3 +174,4 @@ tags
 .env
 /.vscode
 /.vscode
+.vscode/extensions.json
